@@ -1,4 +1,3 @@
-
 class App extends React.Component{
   constructor(props){
     super(props)
@@ -247,7 +246,7 @@ class Item extends React.Component{
           <i className="fas fa-check completed"/>
         </div>
         {itemName} 
-        <div className="item-edit" onClick={this.toggleEdit}></div>
+        <div className="item-edit" onClick={this.toggleEdit}>
           <i className="fas fa-pen"/>
         </div>
         <div className="item-delete" onClick={deleteItem}>
