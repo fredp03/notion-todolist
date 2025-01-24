@@ -1,0 +1,3 @@
+'use strict';
+
+// ...existing React component code but compiled to standard JS...

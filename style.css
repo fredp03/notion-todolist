@@ -1,0 +1,13 @@
+:root {
+  --green: rgb(67, 239, 169);
+  --blue: rgb(78, 179, 241);
+  --gray60: #3c3c3c;
+  --gray120: #787878;
+  --gray200: #c8c8c8;
+  --gray230: #e6e6e6;
+  --red: #ff5555;
+  --shadow1: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  --shadow2: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+/* ...existing css from style.scss converted to standard CSS... */
